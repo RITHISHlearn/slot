@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:22.03.2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,9 +24,242 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<html>
+  
+    <head>
+    
+        <title> Timetable</title>
+        
+    </head>
+    
+    <body>
+    
+        <center>
+        
+            <img src="/static/logo.png" height="100"width="540">
+            
+        </center>
+        
+        <br>
+        
+        <table align="center" width="540" cellspacing="2" cellpadding="4" border="2">
+        
+            <caption><b>TIMETABLE- BEATRICE THOMAS(212223110005)</b></caption>
+            
+            <tr align="center">
+            
+                <th bgcolor="red">Day/Time</th>
+                
+                <th bgcolor="red">Monday</th>
+                
+                <th bgcolor="red">Tuesday</th>
+                
+                <th bgcolor="red">Wednesday</th>
+                
+                <th bgcolor="red">Thursday</th>
+                
+                <th bgcolor="red">Friday</th>
+                
+                <th bgcolor="red">Saturday</th>
 
+
+            </tr>
+            
+            <tr align="center">
+            
+                <th bgcolor="red">8-10</th>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">STATISTICS AND NUMERICAL METHODS</td>
+                
+                <td bgcolor="pink">CYBERLAW AND COMPLIANCE</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">FUNDAMENTALS OF WEB APPLICATION DEVLOPMENT</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+            </tr>
+            
+            <tr align="centre">
+            
+                <th bgcolor="red">10-12</th>
+                
+                <td bgcolor="pink">EMBEDDED BOARD DESIGN</td>
+                
+                <td bgcolor="pink">FUNDAMENTALS OF WEB APPLICATION DEVLOPMENT</td>
+                
+                <td bgcolor="pink">PHYSICS FOR QUANTUM COMPUTING</td>
+
+                
+                <td bgcolor="pink">INTRODUCTION TO ROBOTICS</td>
+                
+                <td bgcolor="pink">ENGINEERING MECHANICS AND PRODUCT DEVELOPMENT</td>
+                
+                <td bgcolor="pink">STATISTICS AND NUMERICAL METHODS</td>
+                
+            </tr>
+            
+            <tr align="centre">
+            
+                <th bgcolor="red">12-1</th>
+                
+                <td bgcolor="pink">LUNCH</td>
+                
+                <td bgcolor="pink">LUNCH</td>
+                
+                <td bgcolor="pink">LUNCH</td>
+                
+                <td bgcolor="pink">LUNCH</td>
+                
+                <td bgcolor="pink">LUNCH</td>
+                
+                <td bgcolor="pink">LUNCH</td>
+            </tr>
+
+            <tr align="centre">
+            
+                <th bgcolor="red">1-3</th>
+                
+                <td bgcolor="pink">INTRODUCTION TO ROBOTICS</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">ENGINEERING MECHANICS AND PRODUCT DEVELOPMENT</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+            </tr>
+            
+
+            <tr align="centre">
+            
+                <th bgcolor="red">3-5</th>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                <td bgcolor="pink">PHYSICS FOR QUANTUM COMPUTING</td>
+                
+                <td bgcolor="pink">FUNDAMENTALS OF WEB APPLICATION DEVLOPMENT</td>
+                
+                <td bgcolor="pink">EMBEDDED BOARD DESIGN</td>
+                
+                <td bgcolor="pink">CYBERLAW AND COMPLIANCE</td>
+                
+                <td bgcolor="pink">FREE SLOT</td>
+                
+                
+
+            </tr>
+
+
+        </table>
+
+        
+        <br>
+        
+        <table align="center" cellspacing="2" cellpadding="4" border="2">
+        
+            <tr align="center">
+            
+                <th>S.No.</th>
+                
+                <th>Subject Code</th>
+                
+                <th>Subject Name</th>
+                
+            </tr> 
+            
+            <tr>
+            
+                <td align="center">1.</td>
+                
+                <td align="center">19AI414</td>
+                
+                <td>Fundamentals of Web Application Development</td>
+                
+            </tr>
+            
+            <tr>
+            
+                <td align="center">2.</td>
+                
+                <td align="center">19AI303</td>
+                
+                <td>Engineering Mechanics and Product Development</td>
+                
+            </tr>
+            
+            <tr>
+            
+                <td align="center">3.</td>
+                
+                <td align="center">19AI533</td>
+                
+                <td>Introduction to Robotics</td>
+                
+            </tr>
+            
+            <tr>
+            
+                <td align="center">4.</td>
+                
+                <td align="center">19CS542</td>
+                
+                <td>Embedded Board Design</td>
+                
+            </tr>
+
+            
+            <tr>
+                <td align="center">5.</td>
+
+                
+                <td align="center">19MA211</td>
+                
+                <td>STATISTICS AND NUMERICAL METHODS (MAT)</td>
+                
+            </tr>
+            
+            <tr>
+            
+                <td align="center">6.</td>
+                
+                <td align="center">19CS418</td>
+                
+                <td>Cyber Law and Compliance</td>
+            </tr
+            
+
+     
+           <tr>
+           
+                <td align="center">7.</td>
+                
+                <td align="center">19PH214</td>
+                
+                <td>Physics for Quantum Computing</td>
+                
+            </tr>
+            
+
+        </table>
+        
+    </body>
+    
+</html>
 
 ## OUTPUT
+
+![Screenshot 2024-03-23 013647](https://github.com/RITHISHlearn/slot/assets/145446645/066bec6e-6fc4-4640-aef8-2e57bd791998)
+
+![Screenshot 2024-03-23 013704](https://github.com/RITHISHlearn/slot/assets/145446645/3a15b0e0-830d-4bd8-80e5-3fef19d7faa2)
 
 
 ## RESULT
