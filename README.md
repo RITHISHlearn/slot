@@ -44,7 +44,7 @@ Execute the program using runserver command.
         
         <table align="center" width="540" cellspacing="2" cellpadding="4" border="2">
         
-            <caption><b>TIMETABLE- BEATRICE THOMAS(212223110005)</b></caption>
+            <caption><b>TIMETABLE- BEATRICE RITHISH P (212223230173)</b></caption>
             
             <tr align="center">
             
@@ -257,10 +257,9 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot 2024-03-23 013647](https://github.com/RITHISHlearn/slot/assets/145446645/066bec6e-6fc4-4640-aef8-2e57bd791998)
+ ![Screenshot 2024-03-23 021407](https://github.com/RITHISHlearn/slot/assets/145446645/1294a4d5-9a4c-4bf2-9b9e-15be42773039)
 
-![Screenshot 2024-03-23 013704](https://github.com/RITHISHlearn/slot/assets/145446645/3a15b0e0-830d-4bd8-80e5-3fef19d7faa2)
-
+![Screenshot 2024-03-23 013704](https://github.com/RITHISHlearn/slot/assets/145446645/0260967e-5b50-4702-9ef4-a1805defaa4f)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
